@@ -1,0 +1,26 @@
+img{
+    width: 400px;
+    height: 400px;
+  }
+ h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #530530;
+    size: 100pt;
+
+  }
+  body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: beige;
+  }
+
+  .kittyButton{
+    color: #fff;
+    background-color: #530530;
+    width: 25%;
+    height: 25%;
+    border-radius: 30%;
+    margin-top: 20px;
+  }
